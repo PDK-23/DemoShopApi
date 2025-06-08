@@ -50,7 +50,7 @@ Dữ liệu Role được seed tự động (`Admin` = 0, `User` = 1) từ Enum.
 ### 1. Clone & cấu hình repo
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/DemoShopApi.git
+git clone https://github.com/PDK-23/DemoShopApi.git
 cd DemoShopApi
 ```
 
